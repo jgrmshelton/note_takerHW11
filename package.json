@@ -1,0 +1,25 @@
+{
+  "name": "note_takerhw11",
+  "version": "1.0.0",
+  "description": "App for writing and taking notes.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgrmshelton/note_takerHW11.git"
+  },
+  "author": "jgrmshelton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgrmshelton/note_takerHW11/issues"
+  },
+  "homepage": "https://github.com/jgrmshelton/note_takerHW11#readme"
+}
